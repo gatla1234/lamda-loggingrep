@@ -1,0 +1,16 @@
+com\dtcc\ecd\awslogutils\cloudwatch\Validator.class
+com\dtcc\ecd\awslogutils\BuiltinLoggers.class
+com\dtcc\ecd\awslogutils\exception\ResiliencyException.class
+com\dtcc\ecd\awslogutils\log4j\CloudWatchAppender.class
+com\dtcc\ecd\awslogutils\CloudWatchClientUtils.class
+com\dtcc\ecd\awslogutils\cloudwatch\StreamManager.class
+com\dtcc\ecd\awslogutils\cloudwatch\Stream.class
+com\dtcc\ecd\awslogutils\cloudwatch\CloudWatchConnector.class
+com\dtcc\ecd\awslogutils\log4j\PrettyMDCPatternParser.class
+com\dtcc\ecd\awslogutils\exception\LogException.class
+com\dtcc\ecd\awslogutils\DefaultConnector.class
+com\dtcc\ecd\awslogutils\cloudwatch\LoggingUtils.class
+com\dtcc\ecd\awslogutils\log4j\PrettyMDCPatternLayout.class
+com\dtcc\ecd\awslogutils\log4j\CloudWatchIncidentAppender.class
+com\dtcc\ecd\awslogutils\LoggerFactory.class
+com\dtcc\ecd\awslogutils\log4j\PrettyMDCPatternParser$PrettyMDCPatternConverter.class
